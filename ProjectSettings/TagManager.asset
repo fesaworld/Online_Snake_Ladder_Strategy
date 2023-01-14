@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SaveZone
+  - RedZone
+  - Petak-100
+  - ekor
+  - kepala
+  - StartWaypoint
+  - Barrier
+  - Waypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2938666697
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2825281
+    locked: 0
+  - name: Player 4
+    uniqueID: 1133806611
+    locked: 0
+  - name: Player 3
+    uniqueID: 3187637351
+    locked: 0
+  - name: Player 2
+    uniqueID: 3397169017
+    locked: 0
+  - name: Player 1
+    uniqueID: 2597005503
+    locked: 0
+  - name: Additional Object
+    uniqueID: 2051401155
+    locked: 0
+  - name: Notification Area
+    uniqueID: 831968855
+    locked: 0
